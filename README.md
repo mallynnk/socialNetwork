@@ -26,7 +26,7 @@ Given a social network API, when the user enters the command to invoke the appli
 `npm init`
 
 `npm install`
-
+  
 ## Usage
 Run the following command at the root of your project.
 
