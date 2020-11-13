@@ -4,15 +4,11 @@
   - [Description](#description)
   - [Walk Through Video](#walk-through-video)
   - [Installation](#installation)
-  - [Usage](#usage)
   - [Testing](#testing)
   - [Contribution](#contribution)
 
 ## Description
 An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
-
-## Walk Through Video
-[Walkthrough](insert)
 
 ## User Story
 ```
@@ -33,6 +29,9 @@ THEN I am able to successfully create, update, and delete users and thoughts in 
 WHEN I test API POST and DELETE routes in Insomnia Core
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 ```
+
+## Walk Through Video
+[Walkthrough](insert)
 
 ## Installation
 `npm init`
