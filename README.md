@@ -36,4 +36,4 @@ Run the following command at the root of your project.
 No testing is set up at this moment. Tested externally through Insomnia Core.
 
 ## Contribution
-Mallory Korpics (github.com/mallynnk)
+Mallory Korpics (https://github.com/mallynnk)
