@@ -98,7 +98,7 @@ const userController = {
         )
             .then(dbUserData => res.json(dbUserData))
             .catch(err => res.json(err));
-    },
+    }, 
 
 }
 
