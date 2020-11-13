@@ -1,11 +1,18 @@
 # Social Network API
 
+## Table of Contents
+  - [Description](#description)
+  - [Walk Through Video](#walk-through-video)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Testing](#testing)
+  - [Contribution](#contribution)
+
 ## Description
 An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
 
 ## Walk Through Video
-[Walkthrough](https://drive.google.com/file/d/1RpZcmQNjRYAyPbU5yAEzBk1VPseQKPVB/view)
-
+[Walkthrough](insert)
 
 ## User Story
 ```
