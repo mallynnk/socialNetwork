@@ -58,7 +58,7 @@ const thoughtController = {
                 res.json(dbUserData);
             })
             .catch(err => res.json(err));
-    },
+    }, 
 
     // remove thought
     removeThought({ params }, res) {
